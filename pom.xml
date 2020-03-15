@@ -11,8 +11,8 @@
 	<groupId>es.vir2al</groupId>
 	<artifactId>prestamos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>prestamos</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Prestamos</name>
+	<description>Back for prestamos app</description>
 
 	<properties>
 		<java.version>1.8</java.version>
